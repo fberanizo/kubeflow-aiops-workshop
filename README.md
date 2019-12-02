@@ -4,18 +4,6 @@
 
 Artificial Intelligence Ops Workshop with Kubeflow.
 
-## Introduction
+## Acknowledgments
 
-TODO
-
-## Pre-Requisites
-
-TODO
-
-## Instructions
-
-TODO
-
-## Cleaning
-
-TODO
+This workshop was inspired by the [Amazon Sagemaker MLops Workshop](https://github.com/awslabs/amazon-sagemaker-mlops-workshop), and also the tutorial [From Notebook to Kubeflow Pipelines with MiniKF and Kale](https://codelabs.developers.google.com/codelabs/cloud-kubeflow-minikf-kale/).
